@@ -1,4 +1,4 @@
-#  Programming Assignment - Data Wrangling and Data Visualization
+# 📊 Programming Assignment - Data Wrangling and Data Visualization
 
 This repository contains my programming assignments for **ECE 2112: Advanced Computer Programming and Algorithms**
 ---
