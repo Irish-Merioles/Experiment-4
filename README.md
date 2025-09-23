@@ -5,7 +5,7 @@ This repository contains my programming assignments for **ECE 2112: Advanced Com
 
 ## ✧˖°. Contents
 
-### ✨ [Experiment 4 – Data Wrangling and Data Visualization](EXPERIMENT 4 - Data Wrangling and Data Visualization.ipynb)  
+### ✨ [EXPERIMENT 4 - Data Wrangling and Data Visualization.ipynb](https://github.com/Irish-Merioles/Experiment-4/blob/a90fe258378ca494d12f137ac2c567dec017cad1/EXPERIMENT%204%20-%20Data%20Wrangling%20and%20Data%20Visualization.ipynb)  
 
 ---
 
